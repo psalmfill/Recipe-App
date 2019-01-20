@@ -1,0 +1,4 @@
+#Sun Jan 20 10:37:48 WAT 2019
+base.0=C\:\\Users\\Samfield\\Downloads\\Compressed\\an\\Recipe-App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
