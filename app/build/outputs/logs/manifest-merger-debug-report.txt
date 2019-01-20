@@ -54,6 +54,10 @@ INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:4:22-64
 application
 ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:22:5-20
