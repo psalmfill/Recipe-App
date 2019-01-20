@@ -1,16 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aac3412b8f2748ae69eb18802e617993\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f8c568d46ea92382525135066c5b7bac\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3a19e3ad96c04bc1f35c608f504aff59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32a64265645e7026b702917cfe37f5de\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\97334cfa0b730170defdef9a32b3717a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e6e49d98fcf937ba4e86b95d0a9ee1ab\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9b92aa17798f11bf4c93a79cca7c01be\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b0e132b6f66c5c6a7df352f5316650d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\529d6fffe273589b27a3bcfd19eb961b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\941da94f6ba4aa865a185118dd80ae54\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca3aa0f2f33f6ef27eab0ca23152e2b6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\33bf54fb12b88f85f53a0ff5c8fc3099\AndroidManifest.xml:17:1-22:12
@@ -22,86 +27,115 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Samfield\.
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\53dd51f64658fa4da6a78234c7f93d33\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43a0bb15fd573232179319d4e5bceba5\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e361a4edddc4e971ec69b33e6aa4096e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1753723ead50267e47c85b7132f80665\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7b2660779a0fe9a2013ebb471db4221\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bfd84fe929ca54486fd05b463d0f81be\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c60f10afb435952acbd57edf7d5ccbea\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\508c708158087b45e995293a3b3049df\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb33da4de12b36b73c1622e081ba53cf\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d89d6608478fd0f29541e57dbe834355\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07194a3c48c8eea96fb3f26b2838f448\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f8c568d46ea92382525135066c5b7bac\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f8c568d46ea92382525135066c5b7bac\AndroidManifest.xml:10:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\53dd51f64658fa4da6a78234c7f93d33\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\53dd51f64658fa4da6a78234c7f93d33\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43a0bb15fd573232179319d4e5bceba5\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43a0bb15fd573232179319d4e5bceba5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1753723ead50267e47c85b7132f80665\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1753723ead50267e47c85b7132f80665\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\53dd51f64658fa4da6a78234c7f93d33\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.samfieldhawb.recipes.MainActivity
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.samfieldhawb.recipes.DetailActivity
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:12:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.samfieldhawb.recipes.MainActivity
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:21:13-56
+	android:theme
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.samfieldhawb.recipes.LoginActivity
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:23:19-48
 uses-sdk
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aac3412b8f2748ae69eb18802e617993\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aac3412b8f2748ae69eb18802e617993\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f8c568d46ea92382525135066c5b7bac\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\f8c568d46ea92382525135066c5b7bac\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3a19e3ad96c04bc1f35c608f504aff59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\3a19e3ad96c04bc1f35c608f504aff59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32a64265645e7026b702917cfe37f5de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32a64265645e7026b702917cfe37f5de\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\97334cfa0b730170defdef9a32b3717a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\97334cfa0b730170defdef9a32b3717a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52ecadefb30e3de7816f192ea93e1b1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e6e49d98fcf937ba4e86b95d0a9ee1ab\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e6e49d98fcf937ba4e86b95d0a9ee1ab\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9b92aa17798f11bf4c93a79cca7c01be\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9b92aa17798f11bf4c93a79cca7c01be\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b0e132b6f66c5c6a7df352f5316650d6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b0e132b6f66c5c6a7df352f5316650d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\529d6fffe273589b27a3bcfd19eb961b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\529d6fffe273589b27a3bcfd19eb961b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\941da94f6ba4aa865a185118dd80ae54\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\941da94f6ba4aa865a185118dd80ae54\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca3aa0f2f33f6ef27eab0ca23152e2b6\AndroidManifest.xml:20:5-44
@@ -124,6 +158,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samfield\.
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43a0bb15fd573232179319d4e5bceba5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e361a4edddc4e971ec69b33e6aa4096e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e361a4edddc4e971ec69b33e6aa4096e\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1753723ead50267e47c85b7132f80665\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1753723ead50267e47c85b7132f80665\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7b2660779a0fe9a2013ebb471db4221\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7b2660779a0fe9a2013ebb471db4221\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bfd84fe929ca54486fd05b463d0f81be\AndroidManifest.xml:20:5-44
@@ -132,23 +168,23 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samfield
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c60f10afb435952acbd57edf7d5ccbea\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:print:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\508c708158087b45e995293a3b3049df\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:print:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\508c708158087b45e995293a3b3049df\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb33da4de12b36b73c1622e081ba53cf\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bb33da4de12b36b73c1622e081ba53cf\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d89d6608478fd0f29541e57dbe834355\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d89d6608478fd0f29541e57dbe834355\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07194a3c48c8eea96fb3f26b2838f448\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07194a3c48c8eea96fb3f26b2838f448\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\31068ded1d043d916b2a5f0054bfe878\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipes\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
