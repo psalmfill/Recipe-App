@@ -1064,6 +1064,8 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id calories
+id calories_text
 id center
 id center_horizontal
 id center_vertical
@@ -1148,8 +1150,13 @@ id percent
 id pin
 id progress_circular
 id progress_horizontal
+id protein
+id protein_text
 id radio
+id recipe_description
+id recipe_headline
 id recipe_image
+id recipe_ingredient
 id recipe_name
 id recipe_rating
 id recipe_rv
@@ -1207,6 +1214,8 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView5
+id textView6
 id text_input_password_toggle
 id textinput_counter
 id textinput_error

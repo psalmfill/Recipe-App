@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    build-mode="COLD"
+    build-mode="HOT_WARM"
     density="xhdpi"
     format="10"
     plugin-version="3.2.0"
-    timestamp="1547982580409"
+    timestamp="1547983424443"
     token="7219719951276823664"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -24,66 +24,65 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         build-mode="FULL"
-        timestamp="1547981591537"
+        timestamp="1547983169993"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1547982406947"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1547982580409"
+        timestamp="1547983373844"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1547983424443"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
