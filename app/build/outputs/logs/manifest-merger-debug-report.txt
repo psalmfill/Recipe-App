@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aac3412b8f2748ae69eb18802e617993\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:2:1-11:12
@@ -37,20 +37,20 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Samfield\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d89d6608478fd0f29541e57dbe834355\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07194a3c48c8eea96fb3f26b2838f448\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1d53c66af043410209ca79c41482dd77\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:2:11-69
@@ -59,7 +59,7 @@ ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\And
 	android:name
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\cd52e39cd6124accc4b40dbedaec3873\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Samfield\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\40aa07039ccc053778fd1c7165928a74\AndroidManifest.xml:9:5-20
@@ -87,31 +87,33 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Samfield\.grad
 	android:theme
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.samfieldhawb.recipes.MainActivity
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:12:9-20:20
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:12:9-16:20
 	android:label
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:13:13-56
 	android:theme
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:14:13-56
 	android:name
 		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:12:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:15:13-19:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:16:17-69
-	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:16:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:18:17-77
-	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.samfieldhawb.recipes.DetailActivity
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:21:9-22:45
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:17:9-18:45
 	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:22:13-43
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:18:13-43
 activity#com.samfieldhawb.recipes.LoginActivity
-ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:23:9-60
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:theme
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:20:13-56
 	android:name
-		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:23:19-48
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:19:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Samfield\Downloads\Compressed\an\Recipe-App\app\src\main\AndroidManifest.xml

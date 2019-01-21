@@ -997,6 +997,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1006,6 +1007,7 @@ drawable design_snackbar_background
 drawable food
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_local_dining_black
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
@@ -1092,6 +1094,7 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id email
 id end
 id enterAlways
 id enterAlwaysCollapsed
@@ -1115,6 +1118,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView2
 id info
 id invisible
 id italic
@@ -1126,6 +1130,7 @@ id line1
 id line3
 id listMode
 id list_item
+id login
 id masked
 id message
 id middle
@@ -1146,6 +1151,7 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id password
 id percent
 id pin
 id progress_circular
@@ -1211,9 +1217,12 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id text
 id text2
+id textInputLayout
+id textInputLayout2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id textView5
 id textView6
 id text_input_password_toggle
