@@ -1,6 +1,8 @@
 package com.samfieldhawb.recipes;
 
+import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -53,15 +55,20 @@ public class MainActivity extends AppCompatActivity {
         getRecipes.enqueue(new Callback<List<Recipe>>() {
             @Override
             public void onResponse(Call<List<Recipe>> call, Response<List<Recipe>> response) {
-                mRecipes = response.body();
-                mAdapter.addRecipes(mRecipes);
-                mProgressDialog.dismiss();
+                if(response.isSuccessful()){
+                    mRecipes = response.body();
+                    mAdapter.addRecipes(mRecipes);
+                    mProgressDialog.dismiss();
+                }
+                else {
+                    showFailureDialog();
+                }
 
             }
 
             @Override
             public void onFailure(Call<List<Recipe>> call, Throwable t) {
-                Toast.makeText(MainActivity.this,"Fail Loading Recipes",Toast.LENGTH_SHORT).show();
+                showFailureDialog();
             }
         });
     }
@@ -69,5 +76,23 @@ public class MainActivity extends AppCompatActivity {
 
     public static Recipe getRecipe(int pos){
         return mRecipes.get(pos);
+    }
+
+    public void showFailureDialog(){
+        AlertDialog dialog = new AlertDialog.Builder(this)
+                .setMessage("An error occurred while loading recipes, please check your internet connection and retry")
+                .setPositiveButton("Retry", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        fetchRecipes();
+                    }
+                })
+                .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                }).create();
+        dialog.show();
     }
 }

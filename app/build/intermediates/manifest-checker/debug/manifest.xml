@@ -25,7 +25,9 @@
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
-        <activity android:name="com.samfieldhawb.recipes.DetailActivity" />
+        <activity
+            android:name="com.samfieldhawb.recipes.DetailActivity"
+            android:parentActivityName="com.samfieldhawb.recipes.MainActivity" />
         <activity
             android:name="com.samfieldhawb.recipes.LoginActivity"
             android:theme="@style/AppTheme.NoActionBar" >
