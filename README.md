@@ -1,7 +1,7 @@
 # Recipe-App
 # A repository for the recipe app project.
 <p>The project was aspired during the Project-Create 1.0 Follewship at <b>Start Innovation Hub.</b>
-<p>The project is base on an Recipe API loaded from <a href="https://raw.githubusercontent.com/Nsikaktopdown/Recipe/master/Recipe.json">here</a></p>
+<p>The project is base on a Recipe API loaded from <a href="https://raw.githubusercontent.com/Nsikaktopdown/Recipe/master/Recipe.json">here</a></p>
 <h2>Content</h2>
 <ul>
   <li>
